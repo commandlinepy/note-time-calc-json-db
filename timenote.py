@@ -10,7 +10,7 @@ from delete import delete_time
 def show_menu():
   print(foreground.yellow + "\nSELECT A NUMBER OPTION BELOW AND PRESS ENTER:")
   
-  print(foreground.lightblue + "(1)SET TIME GOAL " +
+  print(foreground.lightblue + "\n(1)SET TIME GOAL " +
   foreground.lightgreen + "(2)ADD TIME EVENT " +
   foreground.lightred + "(3)DELETE TIME EVENT")
 
